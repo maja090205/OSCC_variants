@@ -19,6 +19,3 @@ for file in ${DIR}/*.bam; do
     mosdepth --threads 8 ${OUTDIR}/mosdepth/${base} $file
 
 done
-
-#create MultiQC report
-multiqc /data2/stud_agbio/apcsx/fastqc ${OUTDIR} -o ${OUTDIR}/multiqc
