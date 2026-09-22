@@ -1,7 +1,7 @@
 In diesem Ordner finden sich alle Skripte zur Erstellung der patientenbezogenen Genome und K-Mer Analyse.
 Die Skripte wurden in der unten dargestellten Reihenfolge ausgeführt.
 
-## bcftools_consensus.sh
+## bcf_consensus.sh
 Dieses Skript erstellt mithilfe von bcftools consensus ein personenbezogenes Genom für jeden Patienten.
 Dafür werden die Varianten des jeweiligen Patienten aus der VCF Datei in das Referenzgenom übernommen.
 
