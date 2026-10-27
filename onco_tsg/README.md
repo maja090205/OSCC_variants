@@ -17,6 +17,3 @@ Dieses Skript wird für das Erstellen von Heatmaps verwendet.
 In den Heatmaps stehen rote Felder (1) für das Vorhandensein einer Variante in diesem speziellen Transkript. 
 Die grünen Felder (0) symbolisieren dementsprechend die Abwesenheit von Varianten.
 
-## plot_schnitt_onco_tsg.R
-Dieses Skript dient lediglich der Erstellung von Plots. 
-Die Anzahl der von Varianten betroffenen CDS oder Exons von Onkogenen oder TSG werden dadruch u.a. gruppenspezifisch veranschaulicht und miteinander verglichen.
